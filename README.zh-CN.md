@@ -150,14 +150,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- PLUGIN LIST -->
 
-| 最近新增                                                                                                        | 插件描述                                                                                   |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [天气 GPT](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **Steven Tey** on **2023-12-16**</sup>  | 获取特定位置的当前天气信息。<br/>`天气`                                                    |
-| [AskYouPDF](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **AskYourPDF** on **2023-12-16**</sup> | 释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。<br/>`pdf` `文档` `web` |
-| [时钟时间](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-11-01**</sup>     | 显示一个时钟来展示当前时间<br/>`时钟` `时间`                                               |
-| [思维导图](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **Moonlit7** on **2023-12-19**</sup>    | 思维导图生成助手<br/>`思维导图` `脑图`                                                     |
+| 最近新增                                                                                                        | 插件描述                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [TikZJax](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **Arvin Xu** on **2024-01-14**</sup>     | 将 LaTeX TikZ 代码转换为 SVG 图像，用于创建清晰、可缩放的数学图表和可视化效果。<br/>`latex` `svg` `可视化` `图表` `数学` |
+| [天气 GPT](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **Steven Tey** on **2023-12-16**</sup>  | 获取特定位置的当前天气信息。<br/>`天气`                                                                                  |
+| [AskYouPDF](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **AskYourPDF** on **2023-12-16**</sup> | 释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。<br/>`pdf` `文档` `web`                               |
+| [时钟时间](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-11-01**</sup>     | 显示一个时钟来展示当前时间<br/>`时钟` `时间`                                                                             |
 
-> 📊 Total plugins: [<kbd>**9**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**10**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
