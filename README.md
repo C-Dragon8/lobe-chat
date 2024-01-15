@@ -210,12 +210,12 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 | Recent Submits                                                                                                                                                                             | Description                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Chad](https://chat-preview.lobehub.com/market?agent=chad)<br/><sup>By **[HerIsDia](https://github.com/HerIsDia)** on **2024-01-15**</sup>                                                 | Just chad<br/>`humor` `funny`                                                                                                                      |
 | [English Analyst](https://chat-preview.lobehub.com/market?agent=english-teacher)<br/><sup>By **[fmaxyou](https://github.com/fmaxyou)** on **2024-01-11**</sup>                             | Specializes in explaining and memorization techniques for English words and phrases<br/>`english-teaching` `explanation` `memorization-techniques` |
 | [Life Decision Advisor](https://chat-preview.lobehub.com/market?agent=life-decision-advisor)<br/><sup>By **[amitalokbera](https://github.com/amitalokbera)** on **2024-01-11**</sup>       | A Life Decision Advisor is a virtual guide designed to assist users in making informed life decisions<br/>`prompt`                                 |
 | [Computer Science Paper Proofreading](https://chat-preview.lobehub.com/market?agent=cs-research-paper)<br/><sup>By **[McKinleyLu](https://github.com/McKinleyLu)** on **2024-01-10**</sup> | Specializing in proofreading master's degree theses<br/>`proofreading` `paper` `education` `computer-science`                                      |
-| [Emoji Generator](https://chat-preview.lobehub.com/market?agent=emoji-generate)<br/><sup>By **[mushan0x0](https://github.com/mushan0x0)** on **2024-01-09**</sup>                          | Generate emoji expressions based on content<br/>`expression-generation` `emoji` `creative`                                                         |
 
-> 📊 Total agents: [<kbd>**96**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**97**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
